@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="5">
+	<com.4d>
+		<web>
+			<standalone_server>
+				<configuration automatic_session_management="true"/>
+			</standalone_server>
+			<remote>
+				<configuration automatic_session_management="true"/>
+			</remote>
+		</web>
+		<compiler>
+			<options compilation_path="3" fat_binary="true"/>
+			<typage default_for_button="2"/>
+		</compiler>
+		<database>
+			<misc/>
+		</database>
+		<server>
+			<network>
+				<options use_legacy_network_layer="true"/>
+				<client_server use_encryption="false"/>
+			</network>
+		</server>
+		<deployment>
+			<options/>
+		</deployment>
+	</com.4d>
+</preferences>

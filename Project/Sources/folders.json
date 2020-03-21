@@ -1,0 +1,78 @@
+﻿{
+	"crc": {
+		"methods": [
+			"CRC_hmacSha2_256Blob",
+			"CRC_sha2_256Blob",
+			"CRC_sha2_256BlobNative"
+		]
+	},
+	"Dossier par défaut": {
+		"groups": [
+			"Formulaires par défaut",
+			"Méthodes projet par défaut",
+			"Tables par défaut"
+		]
+	},
+	"env": {
+		"methods": [
+			"ENV_v17orAbove"
+		]
+	},
+	"Formulaires par défaut": {},
+	"hex": {
+		"methods": [
+			"HEX_hexByteStrToByteInteger",
+			"HEX_hexCharToInt",
+			"HEX_hexTextToBlob"
+		]
+	},
+	"jwt": {
+		"groups": [
+			"libraries",
+			"private",
+			"public"
+		]
+	},
+	"libraries": {
+		"groups": [
+			"crc",
+			"env",
+			"hex",
+			"long",
+			"txt",
+			"utl"
+		]
+	},
+	"long": {
+		"methods": [
+			"LONG_isEven"
+		]
+	},
+	"Méthodes projet par défaut": {},
+	"private": {
+		"methods": [
+			"Compiler_Methods",
+			"JWT__base64urlEncode",
+			"JWT__sign",
+			"JWT__signObjectTest"
+		],
+		"forms": [
+			"Formulaire1"
+		]
+	},
+	"public": {
+		"methods": [
+			"JWT_componentVersionGet",
+			"JWT_signJson",
+			"JWT_signObject"
+		]
+	},
+	"Tables par défaut": {},
+	"txt": {
+		"methods": [
+			"TXT_base64Clean"
+		]
+	},
+	"utl": {},
+	"trash": {}
+}

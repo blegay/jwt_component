@@ -1,0 +1,100 @@
+﻿{
+	"methods": {
+		"Compiler_Methods": {
+			"timeStamp": "2020-03-21T15:07:07.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CRC_hmacSha2_256Blob": {
+			"timeStamp": "2020-03-21T15:09:32.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CRC_sha2_256Blob": {
+			"timeStamp": "2020-03-21T15:09:32.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CRC_sha2_256BlobNative": {
+			"timeStamp": "2020-03-21T15:09:32.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"ENV_v17orAbove": {
+			"timeStamp": "2020-03-21T15:09:18.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"HEX_hexByteStrToByteInteger": {
+			"timeStamp": "2020-03-21T15:09:51.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"HEX_hexCharToInt": {
+			"timeStamp": "2020-03-21T15:09:51.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"HEX_hexTextToBlob": {
+			"timeStamp": "2020-03-21T15:09:51.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"JWT__base64urlEncode": {
+			"timeStamp": "2020-03-21T15:12:13.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"JWT__sign": {
+			"timeStamp": "2020-03-21T15:12:13.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"JWT__signObjectTest": {
+			"timeStamp": "2020-03-21T15:12:15.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"JWT_componentVersionGet": {
+			"timeStamp": "2020-03-21T15:10:16.000Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"JWT_signJson": {
+			"timeStamp": "2020-03-21T15:09:18.000Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"JWT_signObject": {
+			"timeStamp": "2020-03-21T15:09:18.000Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"LONG_isEven": {
+			"timeStamp": "2020-03-21T15:09:51.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TXT_base64Clean": {
+			"timeStamp": "2020-03-21T15:09:32.000Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}
