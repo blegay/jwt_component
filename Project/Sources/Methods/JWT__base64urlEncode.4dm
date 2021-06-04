@@ -1,11 +1,11 @@
-//%attributes = {"invisible":true}
+//%attributes = {"invisible":true,"shared":false,"preemptive":"capable","executedOnServer":false,"publishedSql":false,"publishedWsdl":false,"publishedSoap":false,"publishedWeb":false,"published4DMobile":{"scope":"none"}}
 
   //================================================================================
   //@xdoc-start : en
   //@name : JWT__base64urlEncode
   //@scope : public
   //@deprecated : no
-  //@description : This method/function returns 
+  //@description : This function does a urlencoding for base64 data
   //@parameter[0-OUT-base64-TEXT] : url base64 encoded
   //@parameter[1-IN-dataPtr-TEXT] : data pointer (text or blob)
   //@notes :

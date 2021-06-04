@@ -1,99 +1,411 @@
 ﻿{
 	"methods": {
-		"Compiler_Methods": {
-			"timeStamp": "2020-03-21T15:07:07.000Z",
+		"JWT__signObjectTest": {
+			"timeStamp": "2021-06-04T12:45:37.563Z",
 			"attributes": {
-				"invisible": true
-			}
-		},
-		"CRC_hmacSha2_256Blob": {
-			"timeStamp": "2020-03-21T15:09:32.000Z",
-			"attributes": {
-				"invisible": true
-			}
-		},
-		"CRC_sha2_256Blob": {
-			"timeStamp": "2020-03-21T15:09:32.000Z",
-			"attributes": {
-				"invisible": true
+				"invisible": true,
+				"preemptive": "incapable",
+				"shared": false
 			}
 		},
 		"CRC_sha2_256BlobNative": {
-			"timeStamp": "2020-03-21T15:09:32.000Z",
+			"timeStamp": "2021-06-04T12:43:36.036Z",
 			"attributes": {
-				"invisible": true
-			}
-		},
-		"ENV_v17orAbove": {
-			"timeStamp": "2020-03-21T15:09:18.000Z",
-			"attributes": {
-				"invisible": true
-			}
-		},
-		"HEX_hexByteStrToByteInteger": {
-			"timeStamp": "2020-03-21T15:09:51.000Z",
-			"attributes": {
-				"invisible": true
-			}
-		},
-		"HEX_hexCharToInt": {
-			"timeStamp": "2020-03-21T15:09:51.000Z",
-			"attributes": {
-				"invisible": true
-			}
-		},
-		"HEX_hexTextToBlob": {
-			"timeStamp": "2020-03-21T15:09:51.000Z",
-			"attributes": {
-				"invisible": true
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
 			}
 		},
 		"JWT__base64urlEncode": {
-			"timeStamp": "2020-03-21T15:12:13.000Z",
+			"timeStamp": "2021-06-04T13:15:57.669Z",
 			"attributes": {
-				"invisible": true
-			}
-		},
-		"JWT__sign": {
-			"timeStamp": "2020-03-21T15:12:13.000Z",
-			"attributes": {
-				"invisible": true
-			}
-		},
-		"JWT__signObjectTest": {
-			"timeStamp": "2020-03-21T15:12:15.000Z",
-			"attributes": {
-				"invisible": true
-			}
-		},
-		"JWT_componentVersionGet": {
-			"timeStamp": "2020-03-21T15:10:16.000Z",
-			"attributes": {
-				"shared": true
-			}
-		},
-		"JWT_signJson": {
-			"timeStamp": "2020-03-21T15:09:18.000Z",
-			"attributes": {
-				"shared": true
-			}
-		},
-		"JWT_signObject": {
-			"timeStamp": "2020-03-21T15:09:18.000Z",
-			"attributes": {
-				"shared": true
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
 			}
 		},
 		"LONG_isEven": {
-			"timeStamp": "2020-03-21T15:09:51.000Z",
+			"timeStamp": "2021-06-04T12:43:28.093Z",
 			"attributes": {
-				"invisible": true
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Méthode 23": {
+			"timeStamp": "2021-06-04T12:43:19.276Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Méthode 19": {
+			"timeStamp": "2021-06-04T12:43:19.645Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Méthode 25": {
+			"timeStamp": "2021-06-04T12:43:16.394Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Méthode 24": {
+			"timeStamp": "2021-06-04T12:43:17.409Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Méthode 18": {
+			"timeStamp": "2021-06-04T12:43:19.882Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"ENV_v17orAbove": {
+			"timeStamp": "2021-06-04T12:43:32.908Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"JWT_signObject": {
+			"timeStamp": "2021-06-04T12:43:27.711Z",
+			"attributes": {
+				"shared": true,
+				"invisible": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"HEX_hexByteStrToByteInteger": {
+			"timeStamp": "2021-06-04T12:43:33.207Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Méthode 17": {
+			"timeStamp": "2021-06-04T12:43:28.488Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"CRC_hmacSha2_256Blob": {
+			"timeStamp": "2021-06-04T12:43:40.818Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"CRC_sha2_256Blob": {
+			"timeStamp": "2021-06-04T12:43:36.554Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"HEX_hexTextToBlob": {
+			"timeStamp": "2021-06-04T12:43:33.940Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
 			}
 		},
 		"TXT_base64Clean": {
-			"timeStamp": "2020-03-21T15:09:32.000Z",
+			"timeStamp": "2021-06-04T12:43:16.878Z",
 			"attributes": {
-				"invisible": true
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"JWT_componentVersionGet": {
+			"timeStamp": "2021-06-04T13:12:54.255Z",
+			"attributes": {
+				"shared": true,
+				"invisible": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"JWT__sign": {
+			"timeStamp": "2021-06-04T12:43:30.760Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2021-06-04T13:11:17.917Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"HEX_hexCharToInt": {
+			"timeStamp": "2021-06-04T12:43:33.551Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"JWT_signJson": {
+			"timeStamp": "2021-06-04T12:43:29.287Z",
+			"attributes": {
+				"shared": true,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				},
+				"invisible": false
+			}
+		},
+		"JWT__xdocInit": {
+			"timeStamp": "2021-06-04T12:44:49.546Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "incapable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"shared": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"(CRC_sha1Blob)": {
+			"timeStamp": "2021-06-04T12:43:37.059Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"(CRC_hmacSha1Blob)": {
+			"timeStamp": "2021-06-04T12:43:11.725Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
+			}
+		},
+		"(ENV_v13orAbove)": {
+			"timeStamp": "2021-06-04T12:44:22.739Z",
+			"attributes": {
+				"invisible": true,
+				"shared": false,
+				"preemptive": "capable",
+				"executedOnServer": false,
+				"publishedSql": false,
+				"publishedWsdl": false,
+				"publishedSoap": false,
+				"publishedWeb": false,
+				"published4DMobile": {
+					"scope": "none"
+				}
 			}
 		}
 	}

@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true}
+//%attributes = {"invisible":true,"shared":false,"preemptive":"capable","executedOnServer":false,"publishedSql":false,"publishedWsdl":false,"publishedSoap":false,"publishedWeb":false,"published4DMobile":{"scope":"none"}}
 C_TEXT:C284(JWT_signObject ;$0)
 C_OBJECT:C1216(JWT_signObject ;$1)
 C_TEXT:C284(JWT_signObject ;$2)
@@ -32,3 +32,9 @@ C_LONGINT:C283(HEX_hexByteStrToByteInteger ;$0)
 C_TEXT:C284(HEX_hexByteStrToByteInteger ;$1)
 C_LONGINT:C283(HEX_hexCharToInt ;$0)
 C_TEXT:C284(HEX_hexCharToInt ;$1)
+  //C_BLOB(CRC_hmacSha1Blob;$0)
+  //C_POINTER(CRC_hmacSha1Blob;$1)
+  //C_POINTER(CRC_hmacSha1Blob;$2)
+  //C_BLOB(CRC_sha1Blob;$0)
+  //C_POINTER(CRC_sha1Blob;$1)
+  //C_BOOLEAN(ENV_v13orAbove;$0)

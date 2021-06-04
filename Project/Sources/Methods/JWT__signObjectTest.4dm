@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true}
+//%attributes = {"invisible":true,"preemptive":"incapable","shared":false}
 
   //================================================================================
   //@xdoc-start : en
@@ -15,6 +15,7 @@
   //@xdoc-end
   //================================================================================
 
+SET ASSERT ENABLED:C1131(True:C214)
 
   // create JWT sample payload object
 C_OBJECT:C1216($vo_payload)
