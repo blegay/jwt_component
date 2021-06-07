@@ -28,7 +28,7 @@
 C_TEXT:C284($0;$vt_componentVersion)
 
   //<Modif> Bruno LEGAY (BLE) (04/06/2021)
-  // clean-up, generated documentation in Markdown
+  // clean-up, generated documentation in Markdown, made code thread-safe
 $vt_componentVersion:="2.00.01"
   //<Modif>
 
