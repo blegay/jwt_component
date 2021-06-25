@@ -72,6 +72,13 @@
 				}
 			}
 		},
+		"Méthode 27": {
+			"timeStamp": "2021-06-25T12:55:46.094Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true
+			}
+		},
 		"Méthode 19": {
 			"timeStamp": "2021-06-04T12:43:19.645Z",
 			"attributes": {
@@ -265,7 +272,7 @@
 			}
 		},
 		"JWT_componentVersionGet": {
-			"timeStamp": "2021-06-04T13:17:44.551Z",
+			"timeStamp": "2021-06-04T13:17:44.564Z",
 			"attributes": {
 				"shared": true,
 				"invisible": false,
@@ -294,6 +301,13 @@
 				"published4DMobile": {
 					"scope": "none"
 				}
+			}
+		},
+		"CRC_sha2_512Blob": {
+			"timeStamp": "2021-06-25T12:59:38.917Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true
 			}
 		},
 		"Compiler_Methods": {
@@ -326,6 +340,13 @@
 				"published4DMobile": {
 					"scope": "none"
 				}
+			}
+		},
+		"CRC_hmacSha2_512Blob": {
+			"timeStamp": "2021-06-25T12:56:49.335Z",
+			"attributes": {
+				"shared": false,
+				"invisible": true
 			}
 		},
 		"JWT_signJson": {
